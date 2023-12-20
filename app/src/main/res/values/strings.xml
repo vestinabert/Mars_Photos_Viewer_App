@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Marso Nuotraukos</string>
+    <string name="loading_failed">Nepavyko pakrauti</string>
+    <string name="retry">Bandyti iš naujo</string>
+    <string name="loading">Kraunama</string>
+    <string name="mars_photo">Marso nuotrauka</string>
+    <string name="author">Vestina Bertašiūtė MKDf-20/4</string>
+</resources>
