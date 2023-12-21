@@ -3,6 +3,7 @@
 1. [Project Description](#introduction)
 2. [Features](#features)
 3. [How to Run the Project](#installation)
+4. [App Graphics](#graphics)
   
 ## Project Description: <a name="introduction"></a>
 The goal of the app is to download and display Mars photos from the NASA server. This project was created following Android Kotlin Compose tutorials, including [Getting data from the internet](https://developer.android.com/codelabs/basic-android-kotlin-compose-getting-data-internet#3) and [Load images using Coil](https://developer.android.com/codelabs/basic-android-kotlin-compose-load-images#2).
@@ -27,7 +28,7 @@ git clone https://github.com/vestinabert/Mars_Photos_Viewer_App.git
 
 4. Test the features and enjoy the Mars photos!
 
-## Video Game Graphics: <a name="graphics"></a>
+## App Graphics: <a name="graphics"></a>
 #### UI
 ![display](https://github.com/vestinabert/Mars_Photos_Viewer_App/assets/127593981/cb62d491-14a9-4d46-9e62-561d436c4afd)
 ![photo](https://github.com/vestinabert/Mars_Photos_Viewer_App/assets/127593981/315116dc-6818-4f5f-92c2-c824dcc9d2a5)
