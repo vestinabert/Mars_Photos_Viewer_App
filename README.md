@@ -1,11 +1,13 @@
 # Mars Photos Viewer App
 # Table of contents
-1. [Introduction](#introduction)
+1. [Project Description](#introduction)
 2. [Features](#features)
 3. [How to Run the Project](#installation)
   
-## Title <a name="introduction"></a>
-The goal of the app is to download and display Mars photos from the NASA server. This project was created following Android Kotlin Compose tutorials, including "Getting data from the internet" and "Load images using Coil".
+## Project Description: <a name="introduction"></a>
+The goal of the app is to download and display Mars photos from the NASA server. This project was created following Android Kotlin Compose tutorials, including [Getting data from the internet](https://developer.android.com/codelabs/basic-android-kotlin-compose-getting-data-internet#3) and [Load images using Coil](https://developer.android.com/codelabs/basic-android-kotlin-compose-load-images#2).
+
+
 ## Features: <a name="features"></a>
 #### Top App Bar 
 Ability to view the app's author by clicking the "Author" menu item.
@@ -19,9 +21,9 @@ Upon reopening the app, the saved photo should be opened and displayed.
 ```bash
 git clone https://github.com/vestinabert/Mars_Photos_Viewer_App.git
 ```
-2. Open the project in your preferred IDE with Kotlin Compose support.
+2. Open the project in Android Studio.
 
-3. Run the project on an Android device or emulator.
+3. Build and run the application on an Android emulator or physical device.
 
 4. Test the features and enjoy the Mars photos!
 
